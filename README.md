@@ -7,6 +7,5 @@ Download now! http://dev.bukkit.org/bukkit-plugins/anni/
 
  **Simple Description**: A open source replica of the ShotBow Network's game, Annihilation. 
 
- **Developers**: coasterman10, stuntguy3000
-
-* **Current Version**: v1.5
+ **Developers**: coasterman10, stuntguy3000, Sonicxd2
+* **Current Version**: v1.0
